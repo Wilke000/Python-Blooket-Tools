@@ -1,5 +1,5 @@
 # Python-Blooket-Hacks
-Used glixzzy/blooket-collection for the js
+Used (glixzzy/blooket-collection)[https://github.com/glixzzy/blooket-collection] for the js
 
 ## how to use
 
